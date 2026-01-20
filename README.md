@@ -10,11 +10,11 @@ Kaggle Data Analysis and Visualization Hands-on Project Using SQL, Tableau, and 
 
 ---
 
-1. Install MySQL Community & Workbench, Save Kaggle Dataset
+1. Install **MySQL Community & Workbench**, Save Kaggle Dataset
 2. Analyze E-Commerce Table Structure and EDA
 3. Create Data Mart for Analyzing RFM Segment, Delivery, and Review
-4. Install Tableau Public and Load Table
+4. Install **Tableau Public** and Load Table
 5. Tableau Equations to Create RFM Segment
 6. RFM Segment Dashboards and Data Storytelling
-7. Install Python & Libraries, Save Kaggle Dataset
+7. Install **Python** & Libraries, Save Kaggle Dataset
 8. Visualization of Causes of Delivery Delays by Region
